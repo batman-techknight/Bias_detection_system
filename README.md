@@ -40,7 +40,7 @@ Stopword removal
 
 Word stemming
 
-Feature Extraction
+     Feature Extraction
 
 Convert text into numerical features using TF-IDF Vectorizer
 
@@ -50,7 +50,7 @@ Logistic Regression classifier
 
 Evaluation
 
-Accuracy score
+    Accuracy score
 
 Classification report (precision, recall, F1-score)
 
